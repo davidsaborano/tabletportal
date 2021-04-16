@@ -1,0 +1,31 @@
+<mat-toolbar color="warn">
+  <span>Portail Tablettes ProSDIS</span>
+</mat-toolbar>
+
+
+<div class="content">
+  <form>
+    <mat-form-field appearance="fill">
+      <mat-label>Cathégorie</mat-label>
+      <mat-select [(ngModel)]="filter" name="filter">
+        <mat-option *ngFor="let type of types" [value]="type.value">
+          {{type.name}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+  </form>
+  <div fxLayout="row wrap" fxLayoutGap="16px grid">
+    <div [fxFlex]="(100/gridColumns) + '%'" fxFlex.xs="100%" fxFlex.sm="33%"
+      *ngFor="let site of (sites | categoryFilter:filter)">
+      <mat-card class="mat-elevation-z4">
+        <mat-card-header>
+          <mat-card-title class="matitle"><a [href]=site.URL> {{site.label}}</a></mat-card-title>
+        </mat-card-header>
+        <a [href]=site.URL>
+          &nbsp;
+          <img mat-card-image src={{site.image|buildImage}}>
+        </a>
+      </mat-card>
+    </div>
+  </div>
+</div>

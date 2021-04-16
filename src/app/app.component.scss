@@ -1,0 +1,23 @@
+mat-toolbar {
+  justify-content: space-between;
+}
+
+mat-card-header {
+  justify-content: center;
+}
+
+.content {
+  padding: 16px;
+}
+
+.content > mat-card {
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+.matitle {
+   align-items: center;
+   font-weight: 400;
+   font-size: medium;
+   
+}

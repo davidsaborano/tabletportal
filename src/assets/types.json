@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Toutes",
+    "value": "Toutes"
+  },
+  {
+    "name": "Annuaire",
+    "value": "Annuaire"
+  },
+  {
+    "name": "Cartographie",
+    "value": "Cartographie"
+  },
+  {
+    "name": "Commune",
+    "value": "Commune"
+  },
+  {
+    "name": "Divers",
+    "value": "Divers"
+  },
+  {
+    "name": "GED",
+    "value": "GED"
+  }
+  ,
+  {
+    "name": "Inventaire PBC",
+    "value": "Inventaire PBC"
+  },
+  {
+    "name": "Météo",
+    "value": "Météo"
+  },
+  {
+    "name": "SDIS",
+    "value": "SDIS"
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "URL": "https://local.ch",
+    "label": "local.ch",
+    "image": "mountains.jpg",
+    "type": "Annuaire"
+  },
+  {
+    "URL": "tel.search.ch",
+    "label": "",
+    "image": "",
+    "type": "Annuaire"
+  },
+  {
+    "URL": "www.local.ch",
+    "label": "",
+    "image": "",
+    "type": "Annuaire"
+  },
+  {
+    "URL": "carto.lausanne.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "cartovision.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "earth.google.com",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "geo.stilv.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "geo.vd.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "geoweb.payerne.swiss",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "hydrodaten.admin.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "map.admin.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "map.cartolacote.ch/s/sdis",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "map.cartoriviera.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "map.cjl.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "map.geo.admin.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "mapnv.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "paudex.geocommunes.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "sigip.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "sit.lutry.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "sit.nppr.ch/moudon/theme/theme_eau",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "vullyleslacs.edilis.net",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.asitvd.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.cartolacote.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.eauxdumormont.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.eca-vaud.ch/extdpre/sire/mapbh",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.geocommunes.ch/references",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.geoportail.vd.ch/map.htm?mapresources=GESREAU",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.google.com/maps",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.lightningmaps.org/#",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.sitse-plans.ch",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "www.vhv.ch/xt_vh/index.php",
+    "label": "",
+    "image": "",
+    "type": "Cartographie"
+  },
+  {
+    "URL": "bassins.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "begnins.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "bournens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "boussens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "bretonnieres.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "burtigny.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "coinsins.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "cossonay.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "gland.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "lavey.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "le-chenit.geocommunes.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "levaud.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "mex.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "moiry.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "mont-la-ville.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "vich.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.ballaigues.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.chavannes-le-veyron.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.chevilly.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.cuarnens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.daillens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.dizy.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.eclepens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.ferreyres.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.gollion.ch/fr",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.grancy.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.labergement.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lachaux.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lasarraz.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lesclees.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lignerolle.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lisle.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.lussery-villars.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.mauraz.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.orny.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.penthalaz.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.penthaz.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.pompaples.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.premier.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.senarclens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.st-maurice.ch/site/index.php",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.sullens.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.vallorbe.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.vaulion.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "www.vufflens-la-ville.ch",
+    "label": "",
+    "image": "",
+    "type": "Commune"
+  },
+  {
+    "URL": "emcc-vd.techwan.com/login",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "portail.118-vaud.ch",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "prestations.vd.ch/pub/blv-publication/accueil",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "valorsa.ch/fr/page.asp",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.feukos.ch/fr/",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.google.ch",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.swissfire.ch/fr/",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.vd.ch/themes/etat-droit-finances/base-legislative-vaudoise/",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.vd.ch/toutes-les-autorites/departements/departement-de-lenvironnement-et-de-la-securite-des/police-cantonale-vaudoise-polcant/",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.wikipedia.ch",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "www.zefix.ch/fr/search/entity/welcome",
+    "label": "",
+    "image": "",
+    "type": "Divers"
+  },
+  {
+    "URL": "intranet.sdis-lamebre.ch",
+    "label": "",
+    "image": "",
+    "type": "GED"
+  },
+  {
+    "URL": "nas.sdis-lamebre.ch/cgi-bin/",
+    "label": "",
+    "image": "",
+    "type": "GED"
+  },
+  {
+    "URL": "storage.118-vaud.ch",
+    "label": "",
+    "image": "",
+    "type": "GED"
+  },
+  {
+    "URL": "www.babs.admin.ch/fr/aufgabenbabs/kgs/inventar.html",
+    "label": "",
+    "image": "",
+    "type": "Inventaire PBC"
+  },
+  {
+    "URL": "meteosuisse.admin.ch",
+    "label": "",
+    "image": "",
+    "type": "Météo"
+  },
+  {
+    "URL": "caserne.sdisvj.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "index.sdisnv.ch/login",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "mir.sdis-nyon-dole.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "mir.sismorget.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "sdisglandserine.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "sdis-ouest-lavaux.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "sdisvallorberegion.ch",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "Tous les autres SDIS du canton",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "www.hydrodaten.admin.ch/fr",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  },
+  {
+    "URL": "www.sdis-venoge.com",
+    "label": "",
+    "image": "",
+    "type": "SDIS"
+  }
+]
